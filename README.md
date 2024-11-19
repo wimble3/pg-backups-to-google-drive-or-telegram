@@ -1,5 +1,5 @@
 # What is it?
-#### This is a small program writing on python, which may running from sh script for making dumps for your postgres databases, sending this dumps to telegram chat, deleting this dumps from disk after sending or errror occured.
+#### This is a small program writing on python, which may running from sh script (for making dumps for your postgres databases),  for sending this dumps to telegram chat, deleting this dumps from disk after sending or errror occured.
 
 # Usage
 #### 1. Create a .env file (as in the example with .env.example).

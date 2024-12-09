@@ -42,4 +42,3 @@ if __name__ == "__main__":
 
     filepath_arg = sys.argv[1]
     send_backup_to_telegram(filepath_arg)
-
